@@ -96,27 +96,27 @@
 //	}
 //	return 0;
 //}
-void menu()
-{
-	printf("**************");
-	printf("*** 1.play****");
-	printf("*** 0.exit****");
-	printf("**************");
-}
-int main()
-{
-	int input = 0;
-
-	do
-	{
-		menu();
-		printf("请选择（1/0）:>");
-		scanf("%d", &input);
-		switch (input)
-		{
-
-		}
-	} while ();
-
-	return 0;
-}
+//void menu()
+//{
+//	printf("**************");
+//	printf("*** 1.play****");
+//	printf("*** 0.exit****");
+//	printf("**************");
+//}
+//int main()
+//{
+//	int input = 0;
+//
+//	do
+//	{
+//		menu();
+//		printf("请选择（1/0）:>");
+//		scanf("%d", &input);
+//		switch (input)
+//		{
+//
+//		}
+//	} while ();
+//
+//	return 0;
+//}
