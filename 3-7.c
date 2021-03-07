@@ -112,6 +112,5 @@ int main()
 	*pFloat = 9.0; 
 	printf("n的值为：%d\n", n);
 	printf("*pFloat的值为：%f\n", *pFloat);
-
 	return 0;
 }
