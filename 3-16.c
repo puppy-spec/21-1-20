@@ -174,6 +174,7 @@
 //	struct Node* next;//指针域
 //}Node;
 //
+
 #include<stddef.h>
 struct S1
 {
@@ -181,6 +182,7 @@ struct S1
 	int i;
 	char c2;
 };
+
 //offsetof-计算的是结构体成员相对于结构体起始位置的偏移量
 int main()
 {
